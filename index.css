@@ -1,14 +1,4 @@
 h1
 {
-    color: bisque;
-}
-h2
-{
-    color:blueviolet;
-}
-img
-{
-    width: 300px;
-    border: 2px;
-    border-radius: 10px;
+    text-align: center;
 }
